@@ -12,6 +12,6 @@ Eu tenho a solução para você, a api conta com os seguintes recursos:
 
 * Caso tenha interesse entre em contato conosco pelo link abaixo pra solicitar orçamento: 👇🏻
 
-[Whatsapp](https://bit.ly/ml-api-afiliados)
+[Fale com nosso Whatsapp 📲](https://bit.ly/ml-api-afiliados)
 
 #mercadolivre #afiliados #api #ofertas #pesquisa 
