@@ -15,3 +15,4 @@ Caso tenha interesse entre em contato conosco pelo link abaixo pra solicitar or√
 #mercadolivre #afiliados #api #ofertas #pesquisa 
 
 ![GitHub stars](https://img.shields.io/github/stars/Fripixel/mercadolivre-link-de-afiliados?style=social)
+![Vers√£o](https://img.shields.io/badge/version-1.0.0-blue.svg)
