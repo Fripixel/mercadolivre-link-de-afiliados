@@ -1,7 +1,5 @@
 # API geradora de link de Afiliados Mercado Livre 🔥
 
-****************************************************************************************
-
 Caso você precise de API pra gerar link de afiliados para produtos no mercado livre
 Eu tenho a solução para você, a api conta com os seguintes recursos:
 
