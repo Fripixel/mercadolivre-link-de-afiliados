@@ -13,3 +13,5 @@ Caso tenha interesse entre em contato conosco pelo link abaixo pra solicitar orÃ
 [ðŸ“² Fale com nosso Whatsapp](https://bit.ly/ml-api-afiliados)
 
 #mercadolivre #afiliados #api #ofertas #pesquisa 
+
+![GitHub stars](https://img.shields.io/github/stars/Fripixel/mercadolivre-link-de-afiliados?style=social)
