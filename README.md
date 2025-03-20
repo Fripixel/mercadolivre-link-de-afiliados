@@ -11,6 +11,7 @@ Eu tenho a solução para você, a api conta com os seguintes recursos:
 - Captura de promoções do dia ✅
 
 * Caso tenha interesse entre em contato conosco pelo link abaixo pra solicitar orçamento: 👇🏻
+
 [Whatsapp](https://bit.ly/ml-api-afiliados)
 
 #mercadolivre #afiliados #api #ofertas #pesquisa 
