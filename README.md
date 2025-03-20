@@ -16,3 +16,4 @@ Caso tenha interesse entre em contato conosco pelo link abaixo pra solicitar or�
 
 ![GitHub stars](https://img.shields.io/github/stars/Fripixel/mercadolivre-link-de-afiliados?style=social)
 ![Versão](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Licença](https://img.shields.io/github/license/Fripixel/mercadolivre-link-de-afiliados)
