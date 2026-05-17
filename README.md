@@ -10,7 +10,7 @@ Eu tenho a solução para você, a api conta com os seguintes recursos:
 
 Caso tenha interesse entre em contato conosco pelo link abaixo pra solicitar orçamento: 👇🏻
 
-[📲 Fale com nosso Whatsapp](https://bit.ly/ml-api-afiliados)
+[📲 Fale com nosso Whatsapp](https://fripixel.short.gy/linkwave-zap)
 
 #mercadolivre #afiliados #api #ofertas #pesquisa 
 
